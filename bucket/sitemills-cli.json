@@ -1,12 +1,12 @@
 {
-    "version": "1.0.10",
+    "version": "1.0.11",
     "description": "Build, deploy, and manage SiteMills apps from the command-line",
     "homepage": "https://github.com/SiteMills/sitemills-cli",
     "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/SiteMills/sitemills-cli/releases/download/v1.0.10/sitemills-win.exe#/sitemills-cli.exe",
-            "hash": "80a2b59582589bc4055fb86a874b22d7488ae990365d7c918af05a3bc5d8d27f"
+            "url": "https://github.com/SiteMills/sitemills-cli/releases/download/v1.0.11/sitemills-win.exe#/sitemills-cli.exe",
+            "hash": "2c1dc9030e598d094dc886ff91bb48ea94391a0a14c624d505affa13e56467a1"
         }
     },
     "bin": "sitemills-cli.exe",
